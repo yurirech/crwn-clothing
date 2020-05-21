@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-// This is how to import SVG into React
+// This is how to 
 import {ReactComponent as Logo} from '../../assets/crown.svg'
 
 import './header.styles.scss'
